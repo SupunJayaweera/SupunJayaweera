@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Supun Jayaweera</h1>
 <h3 align="center">A passionate Computer Engineering Student</h3>
 
-<img align="right" alt="Coding" width="400" src="https://media3.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif">
+<img align="right" alt="Coding" width="800" src="https://media3.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=supunjayaweera&label=Profile%20views&color=0e75b6&style=flat" alt="supunjayaweera" /> </p>
 
