@@ -9,7 +9,7 @@
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=SupunJayaweera&theme=darkhub&no-frame=false&no-bg=false&margin-w=4)
 
-- 🔭 I’m currently working on **Mobile_Quiz_App**
+- 🔭 I’m currently working on **Inventory-and-POS-system,CakeOclock**
 
 - 🌱 I’m currently learning **Dart, Kotlin, Asp.NET Core Blazor**
 
