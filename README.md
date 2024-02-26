@@ -21,7 +21,7 @@
 
 - 📫 How to reach me **supunjayaweera3@gmail.com**
 
-- 📫 My Wbsite **https://supunjayaweera.github.io/My-Portfolio/**
+- 📫 My Wbsite **https://supunjayaweera.github.io/my-website/**
 
 - ⚡ Fun fact **I am very funny...**
 
