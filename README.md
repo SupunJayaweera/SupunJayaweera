@@ -56,7 +56,7 @@
 
 
 
-|     ![](https://github-readme-stats.vercel.app/api?username=SupunJayaweera&theme=dark&hide_border=false&include_all_commits=true&count_private=true)        |       ![](https://github-readme-streak-stats.herokuapp.com/?user=SupunJayaweera&theme=dark&hide_border=false)                                                                                                 |
+|     ![Fraga GitHub stats](https://github-readme-stats.vercel.app/api?username=SupunJayaweera&show_icons=true&theme=dark&count_private=true)        |       ![](https://github-readme-streak-stats.herokuapp.com/?user=SupunJayaweera&theme=dark&hide_border=false)                                                                                                 |
 | --------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SupunJayaweera&theme=dark) | ![](https://github-contributor-stats.vercel.app/api?username=SupunJayaweera&limit=5&theme=dark&combine_all_yearly_contributions=true) |
 
