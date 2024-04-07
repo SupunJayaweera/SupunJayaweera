@@ -4,7 +4,11 @@
 
 
 <img align="center" alt="Coding" width="800" height="200" src="https://media3.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif">
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=supunjayaweera&label=Profile%20views&color=0e75b6&style=flat" alt="supunjayaweera" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=supunjayaweera&label=Profile%20views&color=0e75b6&style=flat" alt="supunjayaweera" />
+<a href="https://user-badge.committers.top/sri_lanka/SupunJayaweera">
+            <img src="https://user-badge.committers.top/sri_lanka/SupunJayaweera.svg" />
+        </a>
+</p>
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=SupunJayaweera&theme=darkhub&no-frame=false&no-bg=false&margin-w=4)
