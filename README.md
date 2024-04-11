@@ -7,12 +7,12 @@
 
 <div style="display: flex; justify-content: space-between; align-items: center;">
         <img src="https://komarev.com/ghpvc/?username=SupunJayaweera&label=Profile%20views&color=0e75b6&style=flat" alt="SupunJayaweera" />
-<!--         <a href="https://user-badge.committers.top/sri_lanka/SupunJayaweera">
-            <img src="https://user-badge.committers.top/sri_lanka/SupunJayaweera.svg" />
-        </a> -->
         <a href="https://user-badge.committers.top/sri_lanka/SupunJayaweera">
-            <img src="https://user-badge.committers.top/sri_lanka_public/SupunJayaweera.svg" />
+            <img src="https://user-badge.committers.top/sri_lanka/SupunJayaweera.svg" />
         </a>
+<!--         <a href="https://user-badge.committers.top/sri_lanka/SupunJayaweera">
+            <img src="https://user-badge.committers.top/sri_lanka_public/SupunJayaweera.svg" />
+        </a> -->
 </div>
 
 </p>
