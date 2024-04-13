@@ -33,7 +33,7 @@
 
 - 📫 How to reach me **supunjayaweera3@gmail.com**
 
-- 📫 My Wbsite **supunjayaweera.me**
+- 📫 My Website **supunjayaweera.me**
 
 - ⚡ Fun fact **I am very funny...**
 
