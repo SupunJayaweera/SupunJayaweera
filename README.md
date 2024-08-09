@@ -23,7 +23,7 @@
 
 - 🔭 I’m currently working on **BCMS Project in SLT Digital Platform**
 
-- 🌱 I’m currently learning **Dart, Kotlin, Asp.NET Core Blazor & MERN Stack**
+- 🌱 I’m currently learning **Dart, Flutter, Asp.NET Core Blazor & MERN Stack**
 
 - 👯 I’m looking to collaborate on **BCMS Project in SLT Digital Platform Organization**
 
