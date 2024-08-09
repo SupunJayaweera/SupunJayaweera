@@ -21,13 +21,13 @@
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=SupunJayaweera&theme=darkhub&no-frame=false&no-bg=false&margin-w=4)
 
-- 🔭 I’m currently working on **Inventory-and-POS-system,CakeOclock**
+- 🔭 I’m currently working on **BCMS Project in SLT Digital Platform**
 
 - 🌱 I’m currently learning **Dart, Kotlin, Asp.NET Core Blazor & MERN Stack**
 
-- 👯 I’m looking to collaborate on **inventory-and-pos-system,CakeOclock**
+- 👯 I’m looking to collaborate on **BCMS Project in SLT Digital Platform Organization**
 
-- 🤝 I’m looking for help with **inventory-and-pos-system**
+- 🤝 I’m looking for help with **BCMS Project**
 
 - 💬 Ask me about **MERN, WPF, ASP.NET**
 
