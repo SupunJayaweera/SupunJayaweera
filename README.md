@@ -29,7 +29,7 @@
 
 - 🤝 I’m looking for help with **BCMS Project**
 
-- 💬 Ask me about **MERN, WPF, ASP.NET**
+- 💬 Ask me about **MERN, WPF, ASP.NET Core**
 
 - 📫 How to reach me **supunjayaweera3@gmail.com**
 
