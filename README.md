@@ -23,7 +23,7 @@
 
 - 🔭 I’m currently working on **BCMS Project in SLT Digital Platform as a Fullstack Developer**
 
-- 🌱 I’m currently learning **Dart, Flutter, Asp.NET Core & MERN Stack**
+- 🌱 I’m currently learning **Flutter, Asp.NET Core & MERN Stack**
 
 - 👯 I’m looking to collaborate on **BCMS Project in SLT Digital Platform Organization**
 
