@@ -2,8 +2,8 @@
 <h3 align="center">A passionate Computer Engineering Student at the Faculty of Engineering, University of Ruhuna, Sri Lanka</h3>
 <h4 align="center"> </h4> 
 
-
-<img align="center" alt="Coding" width="800" height="200" src="https://media3.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif">
+<!--
+<img align="center" alt="Coding" width="800" height="200" src="https://media3.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif">-->
 
 <div style="display: flex; justify-content: space-between; align-items: center;">
         <img src="https://komarev.com/ghpvc/?username=SupunJayaweera&label=Profile%20views&color=0e75b6&style=flat" alt="SupunJayaweera" />
