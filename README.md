@@ -21,7 +21,7 @@
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=SupunJayaweera&theme=darkhub&no-frame=false&no-bg=false&margin-w=4)
 
-- 🔭 I’m currently working on **BCMS Project in SLT Digital Platform as a Fullstack Developer**
+- 🔭 I’m currently working on **BCMS Project in SLT Digital Platform as a Fullstack Developer Intern**
 
 - 🌱 I’m currently learning **Flutter, MongoDB Replication, ASP.NET Core & MERN Stack**
 
