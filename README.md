@@ -27,7 +27,7 @@
 
 - 👯 I’m looking to collaborate on **BCMS Project in SLT Digital Platform Organization**
 
-- 🤝 I’m looking for help with **BCMS Project**
+<!-- - 🤝 I’m looking for help with **BCMS Project** -->
 
 - 💬 Ask me about **MERN Stack, WPF, ASP.NET Core**
 
