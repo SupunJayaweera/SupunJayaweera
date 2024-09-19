@@ -25,7 +25,7 @@
 
 - 🌱 I’m currently learning **MongoDB Replication, ASP.NET Core & MERN Stack**
 
-- 👯 I’m looking to collaborate on **BCMS Project in SLT Digital Platform **
+- 👯 I’m looking to collaborate on **BCMS Project in SLT Digital Platform**
 
 <!-- - 🤝 I’m looking for help with **BCMS Project** -->
 
