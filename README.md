@@ -23,7 +23,7 @@
 
 - 🔭 I’m currently working on **BCMS Project in SLT Digital Platform as a Fullstack Developer Intern**
 
-- 🌱 I’m currently learning **MongoDB Replication, ASP.NET Core & MERN Stack**
+- 🌱 I’m currently learning **AWS, MongoDB Replication, ASP.NET Core & MERN Stack**
 
 - 👯 I’m looking to collaborate on **BCMS Project in SLT Digital Platform**
 
