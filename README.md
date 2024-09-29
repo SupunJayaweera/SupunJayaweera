@@ -35,7 +35,7 @@
 
 - 📫 My Website **https://supunjayaweera.me**
 
-- ⚡ Fun fact **I am very funny...**
+- ⚡ Fun fact **I am very funny.....**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
