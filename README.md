@@ -14,7 +14,6 @@
             <img src="https://user-badge.committers.top/sri_lanka_public/SupunJayaweera.svg" />
         </a>
 </div>
-
 </p>
 
 
