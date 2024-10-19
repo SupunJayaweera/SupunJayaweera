@@ -28,7 +28,7 @@
 
 <!-- - 🤝 I’m looking for help with **BCMS Project** -->
 
-- 💬 Ask me about **MERN Stack, WPF, ASP.NET Core**
+- 💬 Ask me about **MERN Stack, ASP.NET Core**
 
 - 📫 How to reach me **supunjayaweera3@gmail.com**
 
