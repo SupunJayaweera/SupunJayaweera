@@ -24,7 +24,7 @@
 
 - 🌱 I’m currently learning **Azure Active Directory, MongoDB Monitoring Tools, MongoDB Replication and MERN Stack**
 
-- 👯 I’m looking to collaborate on **BCMS Project in SLT Digital Platform**
+- 👯 I’m currently collaborating on **BCMS Project in SLT Digital Platform**
 
 <!-- - 🤝 I’m looking for help with **BCMS Project** -->
 
