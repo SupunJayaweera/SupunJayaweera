@@ -10,9 +10,9 @@
         <a href="https://user-badge.committers.top/sri_lanka/SupunJayaweera">
             <img src="https://user-badge.committers.top/sri_lanka/SupunJayaweera.svg" />
         </a>
-<!--         <a href="https://user-badge.committers.top/sri_lanka/SupunJayaweera">
+        <a href="https://user-badge.committers.top/sri_lanka/SupunJayaweera">
             <img src="https://user-badge.committers.top/sri_lanka_public/SupunJayaweera.svg" />
-        </a> -->
+        </a>
 </div>
 </p>
 
