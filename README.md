@@ -66,9 +66,9 @@
 
 
 
-|     ![Fraga GitHub stats](https://github-readme-stats.vercel.app/api?username=SupunJayaweera&show_icons=true&theme=dark&count_private=true)        |      ![](https://github-readme-streak-stats.herokuapp.com/?user=SupunJayaweera&theme=dark&hide_border=false)                                                                                                 |
-| --------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SupunJayaweera&theme=dark) | ![](https://github-contributor-stats.vercel.app/api?username=SupunJayaweera&limit=5&theme=dark&combine_all_yearly_contributions=true) |
+| ![Backup Stats](https://github-readme-stats-eight-theta.vercel.app/api?username=SupunJayaweera&show_icons=true&theme=dark) | ![](https://github-readme-streak-stats.herokuapp.com/?user=SupunJayaweera&theme=dark&hide_border=false) |
+| :--- | :--- |
+| ![Backup Langs](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=SupunJayaweera&theme=dark&layout=compact) | ![](https://github-contributor-stats.vercel.app/api?username=SupunJayaweera&limit=5&theme=dark&combine_all_yearly_contributions=true) |
 
  <img src="https://github-readme-activity-graph.vercel.app/graph?username=SupunJayaweera&radius=16&theme=github-compact&area=true&order=5" height="250" alt="activity-graph graph"  />
  
